@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PapitchayaM
 - 👀 I’m interested in Computer Science, Software Engineer, Data Scientist
-- 🌱 I’m currently learning ... Actuarial Science , Operation Researc
+- 🌱 I’m currently learning ... Actuarial Science , Operation Research
 - 📫 How to reach me 
       - email : Papitchaya.Jaa@student.mahidol.edu 
       - +66 811309073
